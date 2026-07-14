@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Uploads
+uploads/
+
+# Vector Database
+vector-db/
+
+# Build
+dist/
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
